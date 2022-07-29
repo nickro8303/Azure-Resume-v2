@@ -10,5 +10,5 @@ My own Azure resume, following [The Cloud Resume Challenge.](https://cloudresume
 - Uploaded the html and css files to the static site.
 - Deployed Azure CDN using custom domain name and configured to use HTTPS.
 
-[My Resume Website](www.nicksresume.net) hosted with Azure.
+[My Resume Website](https://www.nicksresume.net/) hosted with Azure.
 
