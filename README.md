@@ -8,7 +8,7 @@ My own Azure resume, following [The Cloud Resume Challenge.](https://cloudresume
 - Edited the html file with my currect resume information.
 - Deployed and configured an Azure Storage static website.
 - Uploaded the html and css files to the static site.
-- Deployed Azure CDN using custom domain name and configured to use HTTPS.
+- Deployed Azure CDN using custom [domain name](www.nicksresume.net) and configured to use HTTPS.
 
 
 
